@@ -1,5 +1,5 @@
 {
-  "new_elements": [
+  "atunos": [
     {
       "id": "id_test",
       "nome": "Name \"Porquinho\" Teste",
@@ -12,6 +12,24 @@
       "nome": "",
       "instrumento": "",
       "atuno_data": "",
+      "entrada": ""
+    }
+  ],
+  "petingas": [
+    {
+      "id": "id_test",
+      "nome": "Name \"Porquinho\" Teste",
+      "instrumento": "Instrumento Teste",
+      "atuno_data": "09/26",
+      "entrada": ""
+    }
+  ],
+  "rascassos": [
+    {
+      "id": "id_test",
+      "nome": "Name \"Porquinho\" Teste",
+      "instrumento": "Instrumento Teste",
+      "atuno_data": "09/26",
       "entrada": ""
     }
   ]
