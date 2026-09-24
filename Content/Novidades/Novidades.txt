@@ -1,0 +1,24 @@
+{
+  "novidades": [
+    {
+      "id": "id_test_1",
+      "titulo": "Titulo 1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et lectus sed diam convallis varius. Phasellus nec nunc vitae urna scelerisque mattis ut sed augue. Mauris hendrerit interdum lacinia. Phasellus fringilla nec lectus vitae condimentum. Duis sed elit accumsan, gravida velit at, sollicitudin elit. Aenean pharetra, lorem vitae fringilla condimentum, orci est posuere turpis, non dictum augue ipsum a enim. Ut dictum massa eget eros eleifend ornare. Nunc vitae pharetra augue. In eu interdum nibh. Vivamus sagittis, lacus ut viverra placerat, nisi odio euismod est, vitae ultrices odio diam in leo. Donec finibus tristique mi, vel consectetur risus rhoncus eu. Suspendisse potenti."
+    },
+    {
+      "id": "id_test_2",
+      "titulo": "Titulo 2",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et lectus sed diam convallis varius. Phasellus nec nunc vitae urna scelerisque mattis ut sed augue. Mauris hendrerit interdum lacinia. Phasellus fringilla nec lectus vitae condimentum. Duis sed elit accumsan, gravida velit at, sollicitudin elit. Aenean pharetra, lorem vitae fringilla condimentum, orci est posuere turpis, non dictum augue ipsum a enim. Ut dictum massa eget eros eleifend ornare. Nunc vitae pharetra augue. In eu interdum nibh. Vivamus sagittis, lacus ut viverra placerat, nisi odio euismod est, vitae ultrices odio diam in leo. Donec finibus tristique mi, vel consectetur risus rhoncus eu. Suspendisse potenti."
+    },
+    {
+      "id": "id_test_3",
+      "titulo": "Titulo 3",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et lectus sed diam convallis varius. Phasellus nec nunc vitae urna scelerisque mattis ut sed augue. Mauris hendrerit interdum lacinia. Phasellus fringilla nec lectus vitae condimentum. Duis sed elit accumsan, gravida velit at, sollicitudin elit. Aenean pharetra, lorem vitae fringilla condimentum, orci est posuere turpis, non dictum augue ipsum a enim. Ut dictum massa eget eros eleifend ornare. Nunc vitae pharetra augue. In eu interdum nibh. Vivamus sagittis, lacus ut viverra placerat, nisi odio euismod est, vitae ultrices odio diam in leo. Donec finibus tristique mi, vel consectetur risus rhoncus eu. Suspendisse potenti."
+    },
+    {
+      "id": "id_test",
+      "titulo": "Titulo 1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et lectus sed diam convallis varius. Phasellus nec nunc vitae urna scelerisque mattis ut sed augue. Mauris hendrerit interdum lacinia. Phasellus fringilla nec lectus vitae condimentum. Duis sed elit accumsan, gravida velit at, sollicitudin elit. Aenean pharetra, lorem vitae fringilla condimentum, orci est posuere turpis, non dictum augue ipsum a enim. Ut dictum massa eget eros eleifend ornare. Nunc vitae pharetra augue. In eu interdum nibh. Vivamus sagittis, lacus ut viverra placerat, nisi odio euismod est, vitae ultrices odio diam in leo. Donec finibus tristique mi, vel consectetur risus rhoncus eu. Suspendisse potenti."
+    }
+  ]
+}
