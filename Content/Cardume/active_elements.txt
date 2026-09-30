@@ -1,7 +1,8 @@
 {
   "active_elements_ids": [
     
-      "id_test",
-      ""
+      "99",
+      "ruca",
+      cachorro
   ]
 }
